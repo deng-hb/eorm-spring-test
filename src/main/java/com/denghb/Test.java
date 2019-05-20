@@ -39,7 +39,7 @@ public class Test {
     public static void main(String[] args) {
 
         new Test().output();
-//        log.info("aß");
+        log.info("aß");
 
     }
 }
